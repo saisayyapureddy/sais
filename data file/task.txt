@@ -1,0 +1,5 @@
+hi all welcome to
+python online programming
+todays concept
+file handling
+file scripting
